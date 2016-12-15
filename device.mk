@@ -73,7 +73,8 @@ PRODUCT_PACKAGES += \
     rild \
     libxml2 \
     libprotobuf-cpp-full \
-    modemloader
+    modemloader \
+    Dialer
 
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.carrier=unknown
